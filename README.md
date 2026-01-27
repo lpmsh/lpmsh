@@ -18,9 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=slyguy5646&style=flat-square&color=blue" alt=""/>
 
 
-🔭 I’m currently building something...
+🔭 I’m currently building with [Flowglad](https://github.com/flowglad/flowglad)
 
-🌱 I’m currently learning **Hono 🔥 & Stripe**
+🌱 I’m currently learning **Modal Sandboxes**
 
 <p align="center">
 </p>
