@@ -20,7 +20,7 @@
 
 🔭 I’m currently building stuff
 
-🌱 I’m currently learning **Modal Sandboxes**
+🌱 I’m currently tinkering with **Background Coding Agents**
 
 <p align="center">
 </p>
