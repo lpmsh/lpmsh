@@ -45,9 +45,6 @@
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" alt="GCP" title="GCP"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright"/>
 </div>
-
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slyguy5646&theme=github_dark" /></p>
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5646&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 
